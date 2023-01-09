@@ -1,16 +1,8 @@
-# deferred_example
+# Deferred Component
 
-A new Flutter project.
+This project demonstrates the use of a deferred component to optimize the performance of the app.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![VID-20230106-WA0015](https://user-images.githubusercontent.com/45100807/211248835-ae848a13-6e54-495d-bb41-360f771496ee.gif)
